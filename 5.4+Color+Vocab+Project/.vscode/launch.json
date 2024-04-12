@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pradeepkumar/Drive/Web Development/HTML/5.4+Color+Vocab+Project",
+      "program": "/Users/pradeepkumar/Drive/Web Development/HTML/5.4+Color+Vocab+Project/build/Debug/outDebug"
+    }
+  ]
+}
